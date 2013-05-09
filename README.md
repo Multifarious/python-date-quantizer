@@ -24,3 +24,7 @@ datetime.datetime(2013, 5, 9, 15, 27, 5, 446303, tzinfo=<UTC>)
 ## Date Entities
 
 Also provides script for generating date entities a CSV data for ingestion into a RDBMS. See `generate_dates.py`
+
+## License
+
+The license is [BSD 2-clause](http://opensource.org/licenses/BSD-2-Clause).  This information is also present in the `LICENSE.txt` file.
